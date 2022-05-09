@@ -2,7 +2,7 @@
 
 ############################################ readodk.R ################################################
 
-# Version: 0.5.1, "Tajikistan" 
+# Version: 0.5.1 
 # Changes to previous version:  Complete overhaul of odkFormat: output is now a labeled data frame, the XLSForm 
 #                               and a codebook using expss package
 # Built under R version 3.4.3
